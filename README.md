@@ -1,6 +1,6 @@
 # Extraindo texto de imagens em Android - OCR App
 
-Trabalho prático da disciplina Programação para Dispositivos Móveis e Sem Fio. O intuito do projeto é mostrar uma implementação da API de reconhecimento de texto do ML Kit (https://www.ayrshare.com/) para extrair texto de imagens em Android. 
+Trabalho prático da disciplina Programação para Dispositivos Móveis e Sem Fio. O intuito do projeto é mostrar uma implementação da API de reconhecimento de texto do ML Kit para extrair texto de imagens em Android. 
 
 Referências:
 
